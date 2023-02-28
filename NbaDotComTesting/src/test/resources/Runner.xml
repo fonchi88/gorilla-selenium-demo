@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="NBA dotcom Testing">
+    <test name="nba regression" preserve-order="true" >
+        <classes>
+            <class name="testRunner.TestRunner" />
+        </classes>
+    </test>
+</suite>
